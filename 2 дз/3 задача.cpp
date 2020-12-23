@@ -1,3 +1,4 @@
+//3 задача «Функция». Для произвольных x, y и b вычислить функцию z = ln(b - y) * sqrt(b - x)
 #include <iostream>
 #include <math.h>
 #include <cstdlib>
