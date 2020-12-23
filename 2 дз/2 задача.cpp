@@ -1,3 +1,4 @@
+//задача 2 вычислить функцию: В случае если |x|<1, то w вычисляется по формуле: a * ln|x|, если же |x|>=1, то по формуле: sqrt(a-x^2)
 #include <iostream>
 #include <math.h>
 #include <cstdlib>
