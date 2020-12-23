@@ -1,3 +1,4 @@
+//Задача «Конус». Вычислить объем и полную поверхность усеченного конуса: V = 1 / 3 * pi * h * (R^2 + R * r + r^2),  S = pi * (R^2 + (R + r) * l + r^2)
 #include <iostream>
 #include <math.h>
 #include <cstdlib>
